@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Hi! I'm Shiza Azam
+# Hi! I'm Shiza Azam 👋
 
 ## Data Engineer
 
