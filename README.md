@@ -2,7 +2,7 @@
 
 # Hi! I'm Shiza Azam 👋
 
-## Data Engineer
+## Data Analytics Engineer
 
 ### About Me
 
