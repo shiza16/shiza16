@@ -6,7 +6,7 @@
 
 ### About Me
 
-I work as a Data Engineer, focusing on developing and managing data engineering projects with a variety of tools and frameworks. I tackle each project with a proactive mindset, consistently learning and implementing best practices to improve efficiency. My commitment to sustainability drives me to complete tasks in the most eco-friendly manner possible.
+I work as a Data Analytics Engineer, focusing on developing and managing data engineering projects with a variety of tools and frameworks. I tackle each project with a proactive mindset, consistently learning and implementing best practices to improve efficiency. My commitment to sustainability drives me to complete tasks in the most eco-friendly manner possible.
 
 I understand the importance of theoretical knowledge in data engineering. As such, I stay informed about distributed computing principles, big data applications, streaming data management, pipeline scheduling and orchestration, cloud environments, and more.
 
