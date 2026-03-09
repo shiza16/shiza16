@@ -1,178 +1,173 @@
+<div align="center">
+
 # Shiza Azam
 
-**Senior Data Engineer**  
-Azure • Microsoft Fabric • Databricks • Spark • AI Data Platforms  
+### Senior Data Engineer • Data Platform Architect
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Modern+Data+Platforms;Designing+Lakehouse+Architectures;Engineering+Scalable+Data+Pipelines;Enabling+Analytics+and+AI+Systems"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Azure-Cloud%20Data%20Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Databricks-Lakehouse-EA3E23?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Spark-Distributed%20Compute-F88909?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Modern%20Analytics-black?style=for-the-badge">
+
+<br><br>
+
+<a href="https://linkedin.com/in/shizaazam">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+</a>
+
+<a href="mailto:shizaazam6@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+</a>
+
+<a href="https://github.com/shiza16">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github">
+</a>
+
+</div>
 
 ---
 
-## Overview
+# About Me
 
-I am a Senior Data Engineer with more than five years of experience designing, building, and operating scalable data platforms that support analytics and AI-driven systems.
+I am a **Senior Data Engineer focused on building scalable data platforms that support analytics, artificial intelligence, and modern data-driven applications**.
 
-My work focuses on developing reliable data pipelines, implementing lakehouse architectures, and enabling analytics and machine learning teams with production-grade datasets.
+My work revolves around designing **reliable data infrastructure**, enabling organizations to transform complex operational data into **structured, trusted datasets for analytics and decision-making**.
 
-I have extensive experience with distributed data processing frameworks such as Apache Spark and PySpark, as well as cloud-native data platforms built on Microsoft Azure.
+I work extensively with **cloud-native data platforms and distributed processing systems**, building architectures that support high-volume data pipelines and enterprise-scale analytics workloads.
 
-Most recently, I have been designing enterprise-scale lakehouse solutions using Microsoft Fabric and Databricks, integrating complex enterprise systems such as SAP and operational databases into modern analytics environments.
+My approach to engineering prioritizes **clean architecture, platform reliability, and well-designed analytics foundations**.
 
 ---
 
-## Core Competencies
+# What I Build
 
-### Data Platform Architecture
-- Lakehouse architecture (Bronze / Silver / Gold)
-- Enterprise-scale data platform design
-- Data warehouse architecture
-- Semantic layer design
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### Data Platforms
+
+Cloud-native data platforms designed to power analytics, reporting, and intelligent applications.
+
+</td>
+
+<td width="33%" align="center">
+
+### Lakehouse Systems
+
+Modern lakehouse architectures combining distributed compute and scalable storage.
+
+</td>
+
+<td width="33%" align="center">
+
+### AI Data Pipelines
+
+Reliable pipelines preparing datasets for machine learning and advanced analytics.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Core Capabilities
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 ### Data Engineering
-- Distributed data processing with Apache Spark
-- Scalable ETL and ELT pipeline development
-- Incremental data processing and CDC
-- Data validation and quality frameworks
 
-### AI & Analytics Data Systems
-- Data preparation pipelines for machine learning
-- Feature engineering datasets
-- Analytics-ready data modeling
-- Data platform reliability and monitoring
+Building scalable pipelines capable of ingesting and transforming large volumes of enterprise data.
 
----
+</td>
 
-## Technology Stack
+<td width="50%" align="center">
 
-### Languages
-Python  
-SQL  
+### Data Architecture
 
-### Data Processing
-Apache Spark  
-PySpark  
+Designing structured data models and analytics foundations that power reporting and BI systems.
 
-### Cloud Platforms
-Microsoft Azure  
-Microsoft Fabric  
-Azure Data Factory  
-Azure Databricks  
+</td>
 
-### Data Engineering Tools
-Apache Airflow  
-dbt  
-Docker  
+</tr>
 
-### Databases
-PostgreSQL  
-MySQL  
-MongoDB  
-Snowflake  
+<tr>
+
+<td width="50%" align="center">
+
+### Distributed Processing
+
+High-performance transformations built on distributed compute frameworks.
+
+</td>
+
+<td width="50%" align="center">
+
+### Analytics Foundations
+
+Reliable data layers enabling business intelligence and self-service analytics.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Selected Projects
+# Technology Ecosystem
 
-### Lakehouse Data Platform
+<div align="center">
 
-An enterprise data platform implementing medallion architecture to support scalable analytics and reporting workloads.
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,git,aws,azure"/>
 
-Capabilities:
+<br><br>
 
-- Bronze, Silver, and Gold data layers
-- Incremental ingestion pipelines
-- Spark-based data transformations
-- Data quality validation
-- Analytics-ready datasets
+**Python • SQL • Apache Spark • PySpark • Azure • Databricks • Microsoft Fabric**
 
-Technology:
-
-Python  
-PySpark  
-Azure  
-Delta Lake  
+</div>
 
 ---
 
-### Customer Revenue Analytics Platform
+# GitHub Activity
 
-A production-style data engineering project integrating customer and transactional data into analytics-ready datasets.
+<div align="center">
 
-Capabilities:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shiza16&show_icons=true&theme=tokyonight"/>
 
-- Incremental ETL pipelines
-- Dimensional modeling
-- Automated pipeline orchestration
-- BI-ready datasets for reporting
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiza16&layout=compact&theme=tokyonight"/>
 
-Technology:
-
-Python  
-SQL  
-Apache Airflow  
-PostgreSQL  
+</div>
 
 ---
 
-### AI Data Pipeline
+# Connect
 
-A scalable data pipeline designed to prepare datasets for machine learning workflows.
+If you're interested in **data platforms, lakehouse architecture, or AI data systems**, feel free to connect.
 
-Capabilities:
+<br>
 
-- Data normalization and transformation
-- Feature engineering pipelines
-- Data validation and monitoring
-- Distributed processing using Spark
+📧 **Email**  
+shizaazam6@gmail.com  
 
-Technology:
+🔗 **LinkedIn**  
+https://linkedin.com/in/shizaazam  
 
-Python  
-PySpark  
-Apache Spark  
+💻 **GitHub**  
+https://github.com/shiza16  
 
 ---
 
-## Professional Experience
+<div align="center">
 
-### Senior Data Engineer — Systems Limited
+⭐ Building reliable data platforms for analytics and AI
 
-Designing and operating enterprise-scale data platforms using Microsoft Fabric and Azure.
-
-Key contributions:
-
-- Developed cloud-native pipelines integrating SAP and enterprise systems
-- Implemented medallion architecture across enterprise data platforms
-- Designed dimensional models and semantic layers for reporting systems
-- Established data governance and quality standards
-
----
-
-### Data Engineer — Afiniti
-
-Developed Spark-based data pipelines supporting analytics and AI workloads for enterprise clients.
-
-Key contributions:
-
-- Built scalable ETL pipelines using Spark and SQL
-- Implemented automated data validation frameworks
-- Supported machine learning pipelines and feature engineering workflows
-
----
-
-## Current Focus
-
-My current areas of interest include:
-
-- Lakehouse data platform architecture
-- Data pipelines for AI and machine learning systems
-- Spark performance optimization
-- Data platform reliability and governance
-
----
-
-## Contact
-
-For collaboration, technical discussions, or opportunities:
-
-Email: shizaazam6@gmail.com  
-LinkedIn: https://linkedin.com/in/shizaazam  
-GitHub: https://github.com/shiza16
+</div>
