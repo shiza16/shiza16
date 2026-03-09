@@ -1,146 +1,178 @@
-<div align="center">
+# Shiza Azam
 
-# Hi, I'm Shiza Azam 👋
+**Senior Data Engineer**  
+Azure • Microsoft Fabric • Databricks • Spark • AI Data Platforms  
 
-### Senior Data Engineer | Azure | Microsoft Fabric | Spark | AI Data Platforms
-
-</div>
 
 ---
 
-# About Me
+## Overview
 
-I am a Senior Data Engineer with over 5 years of experience designing and operating scalable data platforms for analytics and AI-driven systems.
+I am a Senior Data Engineer with more than five years of experience designing, building, and operating scalable data platforms that support analytics and AI-driven systems.
 
-My work focuses on building reliable data pipelines, implementing lakehouse architectures, and enabling analytics and machine learning teams with high-quality, production-ready datasets.
+My work focuses on developing reliable data pipelines, implementing lakehouse architectures, and enabling analytics and machine learning teams with production-grade datasets.
 
-I have hands-on experience working with distributed data processing frameworks such as Apache Spark and PySpark, and building cloud-native data platforms on Microsoft Azure.
+I have extensive experience with distributed data processing frameworks such as Apache Spark and PySpark, as well as cloud-native data platforms built on Microsoft Azure.
 
-Recently, my work has focused on developing lakehouse solutions using Microsoft Fabric and PySpark, integrating enterprise data sources such as SAP and operational databases into scalable analytics platforms.
-
-I am particularly interested in building data systems that are reliable, scalable, and easy for downstream teams to use.
+Most recently, I have been designing enterprise-scale lakehouse solutions using Microsoft Fabric and Databricks, integrating complex enterprise systems such as SAP and operational databases into modern analytics environments.
 
 ---
 
-# Core Expertise
+## Core Competencies
 
-- Designing scalable **data platforms and lakehouse architectures**
-- Building **production-grade ETL and ELT pipelines**
-- Developing **data pipelines for AI and machine learning workflows**
-- Implementing **data quality frameworks and governance practices**
-- Optimizing **Spark and PySpark workloads for large-scale data processing**
-- Building **analytics-ready datasets and semantic models**
+### Data Platform Architecture
+- Lakehouse architecture (Bronze / Silver / Gold)
+- Enterprise-scale data platform design
+- Data warehouse architecture
+- Semantic layer design
+
+### Data Engineering
+- Distributed data processing with Apache Spark
+- Scalable ETL and ELT pipeline development
+- Incremental data processing and CDC
+- Data validation and quality frameworks
+
+### AI & Analytics Data Systems
+- Data preparation pipelines for machine learning
+- Feature engineering datasets
+- Analytics-ready data modeling
+- Data platform reliability and monitoring
 
 ---
 
-# Tech Stack
+## Technology Stack
 
-### Programming & Data Processing
+### Languages
+Python  
+SQL  
 
-- Python  
-- SQL  
-- PySpark  
-- Apache Spark  
+### Data Processing
+Apache Spark  
+PySpark  
 
 ### Cloud Platforms
-
-- Microsoft Azure  
-- Microsoft Fabric  
-- Azure Data Factory  
-- Azure Databricks  
+Microsoft Azure  
+Microsoft Fabric  
+Azure Data Factory  
+Azure Databricks  
 
 ### Data Engineering Tools
-
-- Apache Airflow  
-- dbt  
-- Docker  
+Apache Airflow  
+dbt  
+Docker  
 
 ### Databases
-
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-- Snowflake  
-
-### Big Data & Streaming
-
-- Apache Spark  
-- Kafka  
+PostgreSQL  
+MySQL  
+MongoDB  
+Snowflake  
 
 ---
 
-# Featured Data Engineering Projects
+## Selected Projects
 
 ### Lakehouse Data Platform
 
-An end-to-end data platform implementing Medallion Architecture for scalable analytics workloads.
+An enterprise data platform implementing medallion architecture to support scalable analytics and reporting workloads.
 
-Key components:
+Capabilities:
 
-- Bronze / Silver / Gold data layers
+- Bronze, Silver, and Gold data layers
 - Incremental ingestion pipelines
-- Data validation and quality checks
-- Spark-based transformations
-- Analytics-ready datasets for reporting and AI use cases
+- Spark-based data transformations
+- Data quality validation
+- Analytics-ready datasets
 
-Technologies used:
+Technology:
 
-Python • PySpark • Azure • Delta Lake
+Python  
+PySpark  
+Azure  
+Delta Lake  
 
 ---
 
 ### Customer Revenue Analytics Platform
 
-Production-style data pipeline designed to process customer and sales datasets into analytics-ready models.
+A production-style data engineering project integrating customer and transactional data into analytics-ready datasets.
 
-Features:
+Capabilities:
 
 - Incremental ETL pipelines
 - Dimensional modeling
-- Data warehouse design
 - Automated pipeline orchestration
-- BI-ready datasets
+- BI-ready datasets for reporting
 
-Technologies used:
+Technology:
 
-Python • SQL • Airflow • PostgreSQL
+Python  
+SQL  
+Apache Airflow  
+PostgreSQL  
 
 ---
 
 ### AI Data Pipeline
 
-A scalable data pipeline designed to prepare and transform large datasets for machine learning workflows.
+A scalable data pipeline designed to prepare datasets for machine learning workflows.
 
-Features:
+Capabilities:
 
-- Data cleaning and normalization
+- Data normalization and transformation
 - Feature engineering pipelines
 - Data validation and monitoring
-- Scalable Spark processing
+- Distributed processing using Spark
 
-Technologies used:
+Technology:
 
-Python • PySpark • Spark
-
----
-
-# Current Focus
-
-- Building scalable **lakehouse data platforms**
-- Data pipelines supporting **AI and machine learning systems**
-- **Spark performance optimization**
-- **Data reliability and governance**
+Python  
+PySpark  
+Apache Spark  
 
 ---
 
-# Connect with Me
+## Professional Experience
 
-<p align="left">
-<a href="https://github.com/shiza16"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
-<a href="https://www.linkedin.com/in/shizaazam/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-<a href="mailto:shizaazam6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
-</p>
+### Senior Data Engineer — Systems Limited
+
+Designing and operating enterprise-scale data platforms using Microsoft Fabric and Azure.
+
+Key contributions:
+
+- Developed cloud-native pipelines integrating SAP and enterprise systems
+- Implemented medallion architecture across enterprise data platforms
+- Designed dimensional models and semantic layers for reporting systems
+- Established data governance and quality standards
 
 ---
 
-⭐ Feel free to explore my repositories to see examples of data engineering pipelines, data platform architectures, and analytics workflows.
+### Data Engineer — Afiniti
+
+Developed Spark-based data pipelines supporting analytics and AI workloads for enterprise clients.
+
+Key contributions:
+
+- Built scalable ETL pipelines using Spark and SQL
+- Implemented automated data validation frameworks
+- Supported machine learning pipelines and feature engineering workflows
+
+---
+
+## Current Focus
+
+My current areas of interest include:
+
+- Lakehouse data platform architecture
+- Data pipelines for AI and machine learning systems
+- Spark performance optimization
+- Data platform reliability and governance
+
+---
+
+## Contact
+
+For collaboration, technical discussions, or opportunities:
+
+Email: shizaazam6@gmail.com  
+LinkedIn: https://linkedin.com/in/shizaazam  
+GitHub: https://github.com/shiza16
