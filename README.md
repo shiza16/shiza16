@@ -137,18 +137,6 @@ Reliable data layers enabling business intelligence and self-service analytics.
 
 ---
 
-# GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shiza16&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiza16&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # Connect
 
 If you're interested in **data platforms, lakehouse architecture, or AI data systems**, feel free to connect.
